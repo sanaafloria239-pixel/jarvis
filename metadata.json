@@ -1,0 +1,7 @@
+{
+  "name": "Copy of JARVIS Web AI Assistant",
+  "description": "A sci-fi inspired personal AI assistant powered by Gemini 2.5 Live API with real-time voice, search grounding, and a HUD-style interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
